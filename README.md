@@ -28,6 +28,10 @@ The following **additional** features are implemented:
 
 Describe any challenges encountered while building the app.
 
+###
+
+GIF created with . http://g.recordit.co/HauWUyBPn0.gif
+
 ## License
 
     Copyright [2019] [name of copyright owner]
